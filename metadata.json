@@ -1,0 +1,6 @@
+{
+  "name": "欧氪律 (NewEco Elite)",
+  "description": "新经济法商对接服务平台前端高保真原型系统。包含首页、商界面孔、破局圈、产业之星（NewEco Elite）及完整的AI律师智能匹配流转模块。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
